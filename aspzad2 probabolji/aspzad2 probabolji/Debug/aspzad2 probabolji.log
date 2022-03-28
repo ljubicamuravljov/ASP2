@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\ljuba\OneDrive - student.etf.bg.ac.rs\FAKULTET\3. semestar\ASP2\Domaci\asp zad 2\aspzad2 probabolji\aspzad2 probabolji\Stablo.h(11,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ljuba\OneDrive - student.etf.bg.ac.rs\FAKULTET\3. semestar\ASP2\Domaci\asp zad 2\aspzad2 probabolji\aspzad2 probabolji\Stablo.h(14,42): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  aspzad2 probabolji.vcxproj -> C:\Users\ljuba\OneDrive - student.etf.bg.ac.rs\FAKULTET\3. semestar\ASP2\Domaci\asp zad 2\aspzad2 probabolji\Debug\aspzad2 probabolji.exe

@@ -1,0 +1,17 @@
+﻿  main.cpp
+  tree.cpp
+C:\Users\ljuba\OneDrive - student.etf.bg.ac.rs\FAKULTET\3. semestar\ASP2\Domaci\asp zad 1\asp zad 1\tree.cpp(194,40): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\ljuba\OneDrive - student.etf.bg.ac.rs\FAKULTET\3. semestar\ASP2\Domaci\asp zad 1\asp zad 1\tree.cpp(194,34): warning C4309: 'argument': truncation of constant value
+C:\Users\ljuba\OneDrive - student.etf.bg.ac.rs\FAKULTET\3. semestar\ASP2\Domaci\asp zad 1\asp zad 1\tree.cpp(198,41): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\ljuba\OneDrive - student.etf.bg.ac.rs\FAKULTET\3. semestar\ASP2\Domaci\asp zad 1\asp zad 1\tree.cpp(198,35): warning C4309: 'argument': truncation of constant value
+  Generating Code...
+  LINK : C:\Users\ljuba\OneDrive - student.etf.bg.ac.rs\FAKULTET\3. semestar\ASP2\Domaci\asp zad 1\Debug\asp zad 1.exe not found or not built by the last incremental link; performing full link
+  asp zad 1.vcxproj -> C:\Users\ljuba\OneDrive - student.etf.bg.ac.rs\FAKULTET\3. semestar\ASP2\Domaci\asp zad 1\Debug\asp zad 1.exe
